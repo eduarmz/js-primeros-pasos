@@ -13,7 +13,7 @@ console.log(1995);
 //Tarea 4. Podemos pasar varios argumentos a console.log separados por comas.
 //Enviar toda la información como un solo argumento.
 //Enviar la información nombre, apellido, año como argumentos separados.
-console.log("Eduardo", "Rivas", "(1995");
+console.log("Eduardo", "Rivas", "(1995)");
 
 //Tarea 5. Envía la misma información (nombre, apellido, año) a la consola, no una al lado de la otra, sino en líneas consecutivas.
 console.log("Eduardo");
@@ -21,7 +21,7 @@ console.log("Rivas");
 console.log("(1995)");
 
 //Tarea 6. Una cadena se puede concatenar usando el signo +, por ejemplo "abc" + "def" serán tratados como "abcdef". Intenta escribir tu nombre, apellido y año de nacimiento en una línea nuevamente, esta vez no separados por comas, sino por el signo +.
-console.loog("Eduardo" + "Rivas" + "(1995)");
+console.log("Eduardo" + "Rivas" + "(1995)");
 
 //Tarea 7. Coloca espacios en los lugares apropiados, de modo que cuando se muestre, se obtenga el mismo efecto que en la Tarea 4.
 console.log("Eduardo " + "Rivas " + "(1995)");
